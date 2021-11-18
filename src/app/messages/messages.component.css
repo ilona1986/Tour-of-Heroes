@@ -11,6 +11,9 @@ h2 {
   padding: 1rem;
   border-radius: 4px;
   font-size: 1rem;
+  margin-top: 1rem;
+  width-min: 150px;
+  text-align: center;
 }
 
 .clear:hover {
